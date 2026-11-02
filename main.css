@@ -210,7 +210,7 @@ article a,.callout a,.faq a{font-weight:700}
 
 /* footer */
 footer.site-footer{background:#fff;border-top:1px solid var(--line);padding:50px 0 34px;font-size:14.5px}
-.footgrid{display:grid;grid-template-columns:1.6fr 1fr 1fr 1fr;gap:32px}
+.footgrid{display:grid;grid-template-columns:1.5fr 1fr 1fr 1fr 1fr;gap:28px}
 footer h2,footer h3{font-size:17px;margin-bottom:12px;color:var(--ink)}
 footer ul{list-style:none}
 footer li{margin-bottom:7px}
